@@ -1,0 +1,35 @@
+Graph:
+{
+Label: Micky_Mouse, Distance: 0, Color: GREY.
+Neighbors: 
+Parah_Salin
+Kim_Jong_Il
+
+Label: Parah_Salin, Distance: 1, Color: GREY.
+Neighbors: 
+Joe_the_Plumber
+
+Label: Joe_the_Plumber, Distance: 2, Color: GREY.
+Neighbors: 
+Wille_E_Coyote
+
+Label: Wille_E_Coyote, Distance: 3, Color: GREY.
+Neighbors: 
+Tilla_Tequila
+
+Label: Tilla_Tequila, Distance: 4, Color: GREY.
+Neighbors: 
+
+Label: Kim_Jong_Il, Distance: 1, Color: GREY.
+Neighbors: 
+Scoobie_Doo
+
+Label: Scoobie_Doo, Distance: 2, Color: GREY.
+Neighbors: 
+Hugo_Chavez
+
+Label: Hugo_Chavez, Distance: 3, Color: GREY.
+Neighbors: 
+
+
+}

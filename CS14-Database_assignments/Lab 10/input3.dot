@@ -1,0 +1,27 @@
+Graph:
+{
+Label: Micky_Mouse, Distance: 0, Color: GREY.
+Neighbors: 
+Wille_E_Coyote
+Scoobie_Doo
+
+Neighbors: 
+
+Neighbors: 
+
+Label: Wille_E_Coyote, Distance: 1, Color: GREY.
+Neighbors: 
+Micky_Mouse
+
+Neighbors: 
+
+Neighbors: 
+
+Label: Scoobie_Doo, Distance: 1, Color: GREY.
+Neighbors: 
+Wille_E_Coyote
+
+Neighbors: 
+
+
+}
